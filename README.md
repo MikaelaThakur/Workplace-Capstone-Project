@@ -71,7 +71,7 @@ pip install -r requirements.txt
 | [Thavaagh Pillay](https://github.com/thavaagh)                                | thavaagh@gmail.com
 | [Mikaela Thakur](https://github.com/MikaelaThakur)                                                 | thakur.mikaela@gmail.com
 
-
+GitHub uploading and management done by Mikaela as Thavaag was unable to access from work laptop. Contribution to project was equal. 
 ## 6. Steps to recreate the enviroment:<a class="anchor" id="team-members"></a>
 
 Steps to Recreate the Environment
